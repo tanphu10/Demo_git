@@ -13,4 +13,9 @@ Step 2: taọ ra commit để ghi chú lại sự thay đổi code ,we use git c
 
 step 3: đẩy code từ local repo lên remote repo để lưu trữ lần đầu sẽ dùng lệnh git push -u origin + tên nhánh , những lần sau chỉ cần dùng lệnh git push origin
 
+git add.
+git commit -m "lan 4 day code"
+git push origin 
 
+các bước để tạo nhánh 
+b1 dùng git branch+ tên nhánh , muốn kiểm tra các nhánh đang có ở local ta dùng lệnh git branch
