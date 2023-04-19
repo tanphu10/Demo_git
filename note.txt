@@ -9,4 +9,8 @@ bước 1:
 + sẽ đẩy hết all các file lên thì ta dùng git add.
 + để kiểm tra sự thay đổi thì ta dùng : git status
 + muốn đảo ngược lại ta dùng lệnh git reset
-Step 2: taọ ra commit để ghi chú lại sự thay đổi code ,we use git commit :"at first 
+Step 2: taọ ra commit để ghi chú lại sự thay đổi code ,we use git commit-m :"at first " , muốn kiểm tra các commit đang có sẽ dùng lệnh git log
+
+step 3: đẩy code từ local repo lên remote repo để lưu trữ lần đầu sẽ dùng lệnh git push -u origin + tên nhánh , những lần sau chỉ cần dùng lệnh git push origin
+
+
